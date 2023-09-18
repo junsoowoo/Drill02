@@ -50,3 +50,5 @@ while(True):
 
 delay(1)
 close_canvas()
+
+
